@@ -1,32 +1,31 @@
-Class	Gloss	Infinitive	Past Singular	Past Plural	Past Participle
-Class Ia	"to bite"	beitan	báit	bitum	bitans
-Class Ib	"to fight"	weihan	wáih	waíhum	waíhans
-Class IIa	"to fall"	driusan	dráus	drusum	drusans
-Class IIb	"to lead"	tiuhan	táuh	taúhum	taúhans
-Class II, aorist-present	"to shut"	ga-lūkan	ga-láuk	ga-lukum	ga-lukans
-Class IIIa	"to bind"	bindan	band	bundum	bundans
-Class IIIb	"to become"	waírþan	warþ	waúrþum	waúrþans
-Class IVa	"to take"	niman	nam	nēmum	numans
-Class IVb	"to bear"	baíran	bar	bērum	baúrans
-Class IV, aorist-present	"to tread"	trudan	*traþ	*trēdum	trudans
-Class Va	"to say"	qiþan	qaþ	qēþum	qiþans
-	"to give"	giban	gaf	gēbum	gibans
-	"to hasten"	sniwan	snáu	snēwum	sniwans
-Class Va, -j- present	"to pray"	bidjan	baþ	bēdum	bidans
-Class Va, irregular	"to eat"	itan	ēt	ētum	itans
-Class Vb	"to see"	saíƕan	saƕ	sēƕum	saíƕans
-Class Vb, -n- present	"to ask"	fraíhnan	frah	frēhum	fraíhans
-Class VI	"to go"	faran	fōr	fōrum	farans
-	"to dig"	graban	grōf	grōbum	grabans
-Class VI, -j- present	"to understand"	fraþjan	frōþ	frōþum	fraþans
-Class VI, n-infix present	"to stand"	standan	stōþ	stōþum	*staþans
-Class VII(a)	"to fold"	falþan	faífalþ	faífalþum	falþans
-	"to seize"	fāhan	faífāh	faífāhum	fāhans
-	"to call"	háitan	haíháit	haíháitum	háitans
-	"to sleep"	slēpan	saíslēp, saízlēp	saíslēpum, saízlēpum	slēpans
-	"to boast"	ƕōpan	ƕaíƕōp	ƕaíƕōpum	ƕōpans
-	"to revile"	*lauan	*laílō	*laílōum	*lauans
-	"to add"	áukan	aíáuk	aíáukum	áukans
-Class VII(b)	"to weep"	grētan	gaígrōt	gaígrōtum	grētans
-	"to reflect upon"	ga-rēdan	ga-raírōþ	ga-raírōdum	ga-rēdans
-	"to sow"	saian	saísō	saísōum	saians
+Ia|to bite|beitan|báit|bitum|bitans
+Ib|to fight|weihan|wáih|waíhum|waíhans
+IIa|to fall|driusan|dráus|drusum|drusans
+IIb|to lead|tiuhan|táuh|taúhum|taúhans
+II, aorist-present|to shut|ga-lūkan|ga-láuk|ga-lukum|ga-lukans
+IIIa|to bind|bindan|band|bundum|bundans
+IIIb|to become|waírþan|warþ|waúrþum|waúrþans
+IVa|to take|niman|nam|nēmum|numans
+IVb|to bear|baíran|bar|bērum|baúrans
+IV, aorist-present|to tread|trudan|*traþ|*trēdum|trudans
+Va|to say|qiþan|qaþ|qēþum|qiþans
+Va|to give|giban|gaf|gēbum|gibans
+Va|to hasten|sniwan|snáu|snēwum|sniwans
+Va, -j- present|to pray|bidjan|baþ|bēdum|bidans
+Va, irregular|to eat|itan|ēt|ētum|itans
+Vb|to see|saíƕan|saƕ|sēƕum|saíƕans
+Vb, -n- present|to ask|fraíhnan|frah|frēhum|fraíhans
+VI|to go|faran|fōr|fōrum|farans
+VI|to dig|graban|grōf|grōbum|grabans
+VI, -j- present|to understand|fraþjan|frōþ|frōþum|fraþans
+VI, n-infix present|to stand|standan|stōþ|stōþum|*staþans
+VII(a), -a- present|to fold|falþan|faífalþ|faífalþum|falþans
+VII(a), -ā- present|to seize|fāhan|faífāh|faífāhum|fāhans
+VII(a), -ái- present|to call|háitan|haíháit|haíháitum|háitans
+VII(a), -ē- present|to sleep|slēpan|saíslēp, saízlēp|saíslēpum, saízlēpum|slēpans
+VII(a), -ō- present|to boast|ƕōpan|ƕaíƕōp|ƕaíƕōpum|ƕōpans
+VII(a), -au- present|to revile|*lauan|*laílō|*laílōum|*lauans
+VII(a), -áu- present|to add|áukan|aíáuk|aíáukum|áukans
+VII(b), -ē- present|to weep|grētan|gaígrōt|gaígrōtum|grētans
+VII(a), -ē- present|to reflect upon|ga-rēdan|ga-raírōþ|ga-raírōdum|ga-rēdans
+VII(a), -ai- present|to sow|saian|saísō|saísōum|saians
