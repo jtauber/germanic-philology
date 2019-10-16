@@ -1,0 +1,189 @@
+Class Ia:
+  beidan "to await" (báiþ)
+  beitan "to bite"
+  deigan "to knead"
+  dreiban "to drive" (dráif)
+  greipan "to seize"
+  hneiwan "to bow"
+  bi-leiban "to remain" (bi-láif)
+  ga-leiþan "to go"
+  ur-reisan "to arise"
+  skeinan "to shine"
+  dis-skreitan "to rend"
+  ga-smeitan "to smear"
+  sneiþan "to cut"
+  speiwan "to spit"
+  steigan "to ascend"
+  sweiban "to cease" (swáif)
+  weipan "to crown"
+  in-weitan "to worship"
+Class Ib:
+  leiƕan "to lend"
+  ga-teihan "to tell"
+  þeihan "to thrive"
+  þreihan "to press upon"
+  weihan "to fight"
+Class IIa:
+  ana-biudan "to bid" (ana-báuþ)
+  biugan "to bend"
+  driugan "to serve as a soldier"
+  driusan "to fall"
+  giutan "to pour"
+  hiufan "to mourn"
+  dis-hniupan "to break asunder"
+  kiusan "to test"
+  kriustan "to gnash"
+  liudan "to grow" (láuþ)
+  liugan "to lie"
+  fra-liusan "to lose"
+  niutan "to enjoy"
+  siukan "to be sick"
+  af-skiuban "to push aside" (af-skáuf)
+  sliupan "to slip"
+  us-þriutan "to trouble"
+Class IIb:
+  tiuhan "to lead"
+  þliuhan "to flee"
+Class II, aorist-present:
+  ga-lūkan "to shut"
+Class IIIa:
+  bindan "to bind"
+  bliggwan "to beat"
+  brinnan "to burn"
+  drigkan "to drink"
+  filhan "to hide"
+  finþan "to find"
+  us-gildan "to repay"
+  du-ginnan "to begin"
+  hilpan "to help"
+  fra-hinþan "to capture"
+  af-linnan "to depart"
+  rinnan "to run"
+  siggwan "to sing"
+  sigqan "to sink"
+  fra-slindan "to swallow up"
+  spinnan "to spin"
+  stigqan "to thrust"
+  swiltan "to die"
+  ana-trimpan "to tread on"
+  at-þinsan "to attract"
+  þriskan "to thresh"
+  wilwan "to rob"
+  windan "to wind"
+  winnan "to suffer"
+  ga-wrisqan "to bear fruit"
+Class IIIb:
+  baírgan "to keep"
+  uf-gaírdan "to gird up"
+  ƕaírban "to walk"
+  af-swaírban "to wipe out"
+  ga-þaírsan "to wither"
+  waírpan "to throw"
+  waírþan "to become"
+Class IVa:
+  brikan "to break"
+  niman "to take"
+  qiman "to come"
+  stilan "to steal"
+  ga-timan "to suit"
+Class IVb:
+  baíran "to bear"
+  ga-taíran "to destroy"
+Class IV, aorist-present:
+  trudan "to tread"
+Class Va:
+  diwan "to die" (dáu)
+  fitan "to travail in birth"
+  giban "to give" (gaf)
+  bi-gitan "to find"
+  hlifan "to steal"
+  ligan "to lie down"
+  lisan "to gather"
+  mitan "to measure"
+  ga-nisan "to be saved"
+  niþan "to help"
+  qiþan "to say"
+  rikan "to heap up"
+  sitan "to sit"
+  sniwan "to hasten" (snáu)
+  ga-widan "to bind" (ga-waþ)
+  ga-wigan "to shake down"
+  wisan "to be, remain"
+  wrikan "to persecute"
+Class Va, -j- present:
+  bidjan "to pray"
+Class Va, irregular:
+  itan "to eat"
+Class Vb:
+  saíƕan "to see"
+Class Vb, -n- present:
+  fraíhnan "to ask"
+Class VI:
+  alan "to grow"
+  us-anan "to expire"
+  ga-daban "to beseem" (ga-dōf)
+  ga-draban "to hew out" (ga-drōf)
+  ga-dragan "to heap up"
+  faran "to go"
+  graban "to dig" (grōf)
+  af-hlaþan "to lade"
+  malan "to grind"
+  sakan "to rebuke"
+  skaban "to shave" (skōf)
+  slahan "to smite"
+  swaran "to swear"
+  þwahan "to wash"
+  wakan "to wake"
+Class VI, -j- present:
+  fraþjan "to understand"
+  hafjan "to raise"
+  hlahjan "to laugh"
+  ga-raþjan "to count"
+  ga-skapjan "to create"
+  skaþjan "to injure"
+  wahsjan "to grow"
+Class VI, n-infix present:
+  standan "to stand" (stōþ)
+Class VII(a), -a- present:
+  us-alþan "to grow old"
+  blandan "to mix"
+  falþan "to fold"
+  gaggan "to go" (past supplied by iddja)
+  haldan "to hold"
+  ana-praggan "to oppress"
+  saltan "to salt"
+  ga-staldan "to possess"
+  waldan "to rule"
+Class VII(a), -ā- present:
+  fāhan "to seize"
+  hāhan "to hang"
+Class VII(a), -ái- present:
+  af-áikan "to deny"
+  fráisan "to tempt"
+  háitan "to call"
+  láikan "to leap"
+  máitan "to cut"
+  skáidan "to divide" (skaískáiþ)
+  ga-þláihan "to cherish, comforẗ"
+Class VII(a), -ē- present:
+  uf-blēsan "to blow up, puff up"
+  slēpan "to sleep"
+Class VII(a), -ō- present:
+  blōtan "to worship"
+  *flōkan "to bewail"
+  ƕōpan "to boast"
+Class VII(a), -au- present:
+  *lauan "to revile" (*laílō)
+  *bnauan "to rub"  # or may be Class III weak
+Class VII(a), -áu- present:
+  áukan "to add"
+  hláupan "to leap"
+  stáutan "to smite"
+Class VII(b), -ē- present:
+  grētan "to weep"
+  lētan "to let"
+  ga-rēdan "to reflect upon" (ga-raírōþ)
+  tēkan "to touch"
+Class VII(b), -ai- present:
+  saian "to sow"
+  *waian "to blow"
