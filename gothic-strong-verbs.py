@@ -35,7 +35,7 @@ def phon(s):
     # s = re.sub(r"gʷ(?=u)", r"g", s)  # gʷ → g / __u
 
     s = re.sub(r"(?<=[iē])u(?=[au])", r"w", s)  # u → w / V__V
-    s = re.sub(r"a(?=u)", r"á", s)  # a → á / __u
+    s = re.sub(r"a(?=u$)", r"á", s)  # a → á / __u#
 
     return s
 
@@ -77,7 +77,6 @@ roots = {
     "grētan": "gr_t",
     "ga-rēdan": "ga-r_þ",
     "saian": "s_",
-
 }
 
 with open("gothic-strong-verb-classes.txt") as f:
