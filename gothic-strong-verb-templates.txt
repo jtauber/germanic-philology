@@ -1,0 +1,27 @@
+Ia|_ei_an|_ái_|_i_um|_i_ans
+Ib|_ei_an|_ái_|_aí_um|_aí_ans
+IIa|_iu_an|_áu_|_u_um|_u_ans
+IIb|_iu_an|_áu_|_aú_um|_aú_ans
+II, aorist-present|_ū_an|_áu_|_u_um|_u_ans
+IIIa|_i_an|_a_|_u_um|_u_ans
+IIIb|_aí_an|_a_|_aú_um|_aú_ans
+IVa|_i_an|_a_|_ē_um|_u_ans
+IVb|_aí_an|_a_|_ē_um|_aú_ans
+IV, aorist-present|_u'_an|_a_|_ē'_um|_u'_ans
+Va|_i'_an|_a_|_ē'_um|_i'_ans
+Va, -j- present|_i'_jan|_a_|_ē'_um|_i'_ans
+Va, irregular|_i_an|_ē_|_ē_um|_i_ans
+Vb|_aí_an|_a_|_ē_um|_aí_ans
+Vb, -n- present|_aí_nan|_a_|_ē_um|_aí_ans
+VI|_a'_an|_ō_|_ō'_um|_a'_ans
+VI, -j- present|_a_jan|_ō_|_ō_um|_a_ans
+VI, n-infix present|_an'_an|_ō_|_ō_um|_a_ans
+VII(a), -a- present|_a_an|~aí_a_|~aí_a_um|_a_ans
+VII(a), -ā- present|_ā_an|~aí_ā_|~aí_ā_um|_ā_ans
+VII(a), -ái- present|_ái_an|~aí_ái_|~aí_ái_um|_ái_ans
+VII(a), -ē- present|_ē_an|~aí_ē_|~aí_ē_um|_ē_ans
+VII(a), -ō- present|_ō_an|~aí_ō_|~aí_ō_um|_ō_ans
+VII(a), -au- present|_au_an|~aí_ō_|~aí_ō_um|_au_ans
+VII(a), -áu- present|_áu_an|~aí_áu_|~aí_áu_um|_áu_ans
+VII(b), -ē- present|_ē'_an|~aí_ō_|~aí_ō'_um|_ē'_ans
+VII(b), -ai- present|_ai_an|~aí_ō_|~aí_ō_um|_ai_ans

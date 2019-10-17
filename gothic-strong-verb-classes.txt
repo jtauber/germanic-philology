@@ -22,10 +22,10 @@ VI, n-infix present|to stand|standan|stōþ|stōþum|*staþans
 VII(a), -a- present|to fold|falþan|faífalþ|faífalþum|falþans
 VII(a), -ā- present|to seize|fāhan|faífāh|faífāhum|fāhans
 VII(a), -ái- present|to call|háitan|haíháit|haíháitum|háitans
-VII(a), -ē- present|to sleep|slēpan|saíslēp, saízlēp|saíslēpum, saízlēpum|slēpans
+VII(a), -ē- present|to sleep|slēpan|saíslēp|saíslēpum|slēpans
 VII(a), -ō- present|to boast|ƕōpan|ƕaíƕōp|ƕaíƕōpum|ƕōpans
 VII(a), -au- present|to revile|*lauan|*laílō|*laílōum|*lauans
 VII(a), -áu- present|to add|áukan|aíáuk|aíáukum|áukans
 VII(b), -ē- present|to weep|grētan|gaígrōt|gaígrōtum|grētans
-VII(a), -ē- present|to reflect upon|ga-rēdan|ga-raírōþ|ga-raírōdum|ga-rēdans
-VII(a), -ai- present|to sow|saian|saísō|saísōum|saians
+VII(b), -ē- present|to reflect upon|ga-rēdan|ga-raírōþ|ga-raírōdum|ga-rēdans
+VII(b), -ai- present|to sow|saian|saísō|saísōum|saians
